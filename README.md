@@ -1,4 +1,4 @@
-# react-redux-conduit
+# react-redux-frontend
 ## Getting started
 
 To get the frontend running locally:
