@@ -1,5 +1,5 @@
 # react-redux-frontend
-[![Conduit](https://github.com/briansodenkin/react-redux-frontend/blob/main/image.jpg?raw=true)]
+![Conduit](https://github.com/briansodenkin/react-redux-frontend/blob/main/image.jpg?raw=true)
 
 ### [Demo](https://62ee445e39e46333ccd589b9--marvelous-licorice-033e8b.netlify.app//)&nbsp;&nbsp;&nbsp;&nbsp;
 
