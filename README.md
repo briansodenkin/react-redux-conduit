@@ -3,6 +3,9 @@
 
 ### [Demo](https://62ee445e39e46333ccd589b9--marvelous-licorice-033e8b.netlify.app//)&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+### [Local Backend Nodejs](https://github.com/briansodenkin/node_sequelize_postsql/)&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## Getting started
 
 To get the frontend running locally:
@@ -46,5 +49,3 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
     - List of articles populated from author's created articles or author's favorited articles
 
 <br />
-
-[![Brought to you by Thinkster](https://raw.githubusercontent.com/gothinkster/realworld/master/media/end.png)](https://thinkster.io)
